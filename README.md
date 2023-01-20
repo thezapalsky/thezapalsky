@@ -1,4 +1,9 @@
-### Hi there 👋
+### about me
+
+- 🎲 using code to execute my random ideas & automate boring actions
+- 🌱 tech stack: mostly python & js
+- 📫 how to reach me: [thezapalsky.github.io](thezapalsky.github.io)
+
 
 <!--
 **thezapalsky/thezapalsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
