@@ -2,7 +2,7 @@
 
 - 🎲 using code to execute my random ideas & automate boring actions
 - 🌱 tech stack: mostly python & js
-- 📫 how to reach me: [thezapalsky.github.io](thezapalsky.github.io)
+- 📫 how to reach me: https://thezapalsky.github.io/
 
 
 <!--
