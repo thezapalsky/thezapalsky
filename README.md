@@ -1,8 +1,28 @@
 ### about me
-
+- 👋 hi, it's miko
 - 🎲 using code to execute my random ideas & automate boring actions
 - 🌱 tech stack: mostly python & js
-- 📫 how to reach me: [thezapalsky.github.io](https://thezapalsky.github.io/)
+
+### some urls:
+- [thezapalsky.github.io](https://thezapalsky.github.io/)
+- [mail](mailto:zapalski.mikolaj@gmail.com)
+- [github](https://github.com/thezapalsky)
+- [portfolio](https://thezapalsky.github.io/cv)
+- [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
+- [twitter](https://twitter.com/yapalskz)
+- [chess.com](https://www.chess.com/member/yapalskz)
+- [duolingo](https://www.duolingo.com/profile/zapalsky)
+
+### inspirations 
+- https://twitter.com/lexfridman
+- https://twitter.com/karpathy
+- https://twitter.com/refikanadol
+- https://twitter.com/harari_yuval
+- https://twitter.com/naval
+- https://twitter.com/tiangolo
+- https://www.samharris.org/
+
+
 
 
 <!--
