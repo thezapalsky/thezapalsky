@@ -13,14 +13,14 @@
 - [chess.com](https://www.chess.com/member/yapalskz)
 - [duolingo](https://www.duolingo.com/profile/zapalsky)
 
-### inspirations 
-- https://twitter.com/lexfridman
-- https://twitter.com/karpathy
-- https://twitter.com/refikanadol
-- https://twitter.com/harari_yuval
-- https://twitter.com/naval
-- https://twitter.com/tiangolo
-- https://www.samharris.org/
+### inspo 
+- [Lex Fridman](https://twitter.com/lexfridman)
+- [Andrej Karpathy](https://twitter.com/karpathy)
+- [Refik Anadol](https://twitter.com/refikanadol)
+- [Yuval Noah Harari](https://twitter.com/harari_yuval)
+- [Naval Ravikant](https://twitter.com/naval)
+- [Sebastián Ramírez](https://twitter.com/tiangolo)
+- [Sam Harris](https://www.samharris.org/)
 
 
 
