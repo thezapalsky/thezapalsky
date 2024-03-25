@@ -3,8 +3,8 @@
 - 🎲 using code to execute my random ideas & automate boring actions
 - 🌱 tech stack: mostly python & js
 
-### some urls:
-- [thezapalsky.github.io](https://thezapalsky.github.io/)
+### some urls
+- [website](https://thezapalsky.github.io/)
 - [mail](mailto:zapalski.mikolaj@gmail.com)
 - [github](https://github.com/thezapalsky)
 - [portfolio](https://thezapalsky.github.io/cv)
