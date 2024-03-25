@@ -1,5 +1,5 @@
 ### about me
-- 👋 hi, i'm miko, data science generalist
+- 👋 hi, i'm miko ~ data science generalist
 - 🎲 using code to execute my random ideas & automate boring actions
 - 🌱 tech stack: mostly python & js
 
