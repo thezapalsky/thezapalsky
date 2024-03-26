@@ -5,9 +5,9 @@
 
 ### some urls
 - [website](https://thezapalsky.github.io/)
-- [mail](mailto:zapalski.mikolaj@gmail.com)
 - [github](https://github.com/thezapalsky)
 - [portfolio](https://thezapalsky.github.io/cv)
+- [mail](mailto:zapalski.mikolaj@gmail.com)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
 - [chess.com](https://www.chess.com/member/yapalskz)
