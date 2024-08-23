@@ -10,7 +10,6 @@
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
 - [chess.com](https://www.chess.com/member/yapalskz)
-- [duolingo](https://www.duolingo.com/profile/zapalsky)
 - [mail](mailto:zapalski.mikolaj@gmail.com)
 
 ### inspo 
