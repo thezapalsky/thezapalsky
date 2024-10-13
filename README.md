@@ -20,7 +20,7 @@
 - [Naval Ravikant](https://twitter.com/naval)
 - [Sebastián Ramírez](https://twitter.com/tiangolo)
 - [Sam Harris](https://www.samharris.org/)
-
+- [Jason Liu](https://x.com/jxnlco)
 
 
 
