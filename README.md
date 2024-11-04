@@ -17,7 +17,6 @@
 - [Andrej Karpathy](https://twitter.com/karpathy)
 - [Jason Liu](https://x.com/jxnlco)
 - [Refik Anadol](https://twitter.com/refikanadol)
-- [Yuval Noah Harari](https://twitter.com/harari_yuval)
 - [Naval Ravikant](https://twitter.com/naval)
 - [Sebastián Ramírez](https://twitter.com/tiangolo)
 
