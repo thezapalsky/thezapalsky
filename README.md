@@ -9,7 +9,6 @@
 - [portfolio](https://thezapalsky.github.io/cv)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
-- [chess.com](https://www.chess.com/member/yapalskz)
 - [mail](mailto:zapalski.mikolaj@gmail.com)
 
 ### inspo 
