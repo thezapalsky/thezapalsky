@@ -11,7 +11,7 @@
 - [portfolio](https://thezapalsky.github.io/cv)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
-- [zapalski.mikolaj@gmail.com](mailto:zapalski.mikolaj@gmail.com)
+- [email](mailto:zapalski.mikolaj@gmail.com)
 
 ### inspo
 
