@@ -6,12 +6,12 @@
 
 ### some urls
 
-- contact me: [zapalski.mikolaj@gmail.com](mailto:zapalski.mikolaj@gmail.com)
 - [website](https://thezapalsky.github.io/)
 - [github](https://github.com/thezapalsky)
 - [portfolio](https://thezapalsky.github.io/cv)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
+- [zapalski.mikolaj@gmail.com](mailto:zapalski.mikolaj@gmail.com)
 
 ### inspo
 
