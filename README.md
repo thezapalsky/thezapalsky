@@ -7,11 +7,11 @@
 ### some urls
 
 - [portfolio](https://thezapalsky.github.io/cv)
-- [website](https://thezapalsky.github.io/)
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
 - [email](mailto:zapalski.mikolaj@gmail.com)
+- [website](https://thezapalsky.github.io/)
 
 ### inspo
 
