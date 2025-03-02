@@ -3,6 +3,7 @@
 - 👋 hi, i'm miko ~ data science generalist
 - 🎲 using code to execute my random ideas & automate boring actions
 - 🌱 tech stack: mostly python & js
+- 🤝 offering ai/ml consulting services, feel free to reach out via email
 
 ### some urls
 
@@ -16,7 +17,6 @@
 
 ### inspo
 
-- [Lex Fridman](https://twitter.com/lexfridman)
 - [Andrej Karpathy](https://twitter.com/karpathy)
 - [Jason Liu](https://x.com/jxnlco)
 - [Refik Anadol](https://twitter.com/refikanadol)
