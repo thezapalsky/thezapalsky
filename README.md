@@ -7,13 +7,13 @@
 
 ### some urls
 
+- [email](mailto:zapalski.mikolaj@gmail.com)
+- [website](https://thezapalsky.github.io/)
 - [portfolio](https://thezapalsky.github.io/cv)
-- [regalo](https://regalo.website/)
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
-- [email](mailto:zapalski.mikolaj@gmail.com)
-- [website](https://thezapalsky.github.io/)
+- [regalo](https://regalo.website/)
 
 ### inspo
 
