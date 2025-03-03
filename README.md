@@ -13,7 +13,7 @@
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
-- [regalo](https://regalo-erm.pages.dev/)
+- [regalo](https://regalo.website/)
 - [consulting](https://thezapalsky.github.io/consulting/)
 
 ### inspo
