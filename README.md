@@ -20,6 +20,7 @@
 - [Andrej Karpathy](https://twitter.com/karpathy)
 - [Jason Liu](https://x.com/jxnlco)
 - [Refik Anadol](https://twitter.com/refikanadol)
+- [ksawerykomputery](https://www.instagram.com/ksawerykomputery/)
 - [Naval Ravikant](https://twitter.com/naval)
 - [Sebastián Ramírez](https://twitter.com/tiangolo)
 
