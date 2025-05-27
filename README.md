@@ -3,17 +3,15 @@
 - 👋 hi, i'm miko ~ data science generalist
 - 🎲 using code to execute my random ideas & automate boring actions
 - 🌱 tech stack: mostly python & js
-- 🤝 offering ai/ml consulting services, feel free to reach out via email
 
 ### some urls
 
-- [email](mailto:zapalski.mikolaj@gmail.com)
 - [website](https://thezapalsky.github.io/)
+- [email](mailto:zapalski.mikolaj@gmail.com)
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
 - [regalo](https://regalo.website/)
-- [consulting](https://thezapalsky.github.io/consulting/)
 
 ### inspo
 
