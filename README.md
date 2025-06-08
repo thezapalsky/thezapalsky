@@ -7,7 +7,7 @@
 ### projects
 
 - [regalo](https://regalo.website)  
-- [synes](#) (`initializing...`)
+- [synes](https://synes.zapalsky.com)
 
 ### some urls
 
