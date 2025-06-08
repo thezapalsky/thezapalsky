@@ -12,7 +12,7 @@
 ### some urls
 
 - [website](https://thezapalsky.github.io/)
-- [email](mailto:zapalski.mikolaj@gmail.com)
+- [email](mailto:miko@zapalsky.com)
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
