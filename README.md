@@ -4,6 +4,11 @@
 - 🎲 using code to execute my random ideas & automate boring actions
 - 🌱 tech stack: mostly python & js
 
+### projects
+
+- [regalo](https://regalo.website)  
+- [synes](#) (`initializing...`)
+
 ### some urls
 
 - [website](https://thezapalsky.github.io/)
@@ -11,11 +16,6 @@
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
-
-### projects
-
-- [regalo](https://regalo.website/)
-- [synes](#)
 
 ### inspo
 
