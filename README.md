@@ -11,7 +11,11 @@
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
+
+### projects
+
 - [regalo](https://regalo.website/)
+- [synes](#)
 
 ### inspo
 
