@@ -21,6 +21,7 @@
 
 - [Andrej Karpathy](https://twitter.com/karpathy)
 - [Jason Liu](https://x.com/jxnlco)
+- [Harrison Kinsley](https://x.com/sentdex)
 - [Refik Anadol](https://twitter.com/refikanadol)
 - [ksawerykomputery](https://www.instagram.com/ksawerykomputery/)
 - [Naval Ravikant](https://twitter.com/naval)
