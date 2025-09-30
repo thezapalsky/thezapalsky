@@ -7,6 +7,7 @@
 ### projects
 
 - [regalo](https://regalo.website)  
+- [kitsuragi](https://kitsuragi.zapalsky.com)
 - [synes](https://synes.zapalsky.com)
 
 ### some urls
