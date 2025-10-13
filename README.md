@@ -3,7 +3,7 @@
 - 👋 hi, i'm miko ~ data science generalist
 - 🎲 using code to execute my random ideas & automate boring actions
 - 🌱 tech stack: mostly python & js
-- 🔭 currently: r&d in [banking](https://www.mbank.pl/); before: [legal-tech](https://legora.com), health-tech & crowd economy
+- 🔭 currently: r&d in [banking](https://www.mbank.pl/); previously: [legal-tech](https://legora.com), health-tech & crowd economy
 
 ### projects
 
