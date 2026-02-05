@@ -8,7 +8,7 @@
 ### projects
 
 - [regalo](https://github.com/thezapalsky/regalo)  
-- [kitsuragi](https://kitsuragi.zapalsky.com)
+- [kitsuragi](https://github.com/thezapalsky/ai-hero)
 - [synes](https://synes.zapalsky.com)
 
 ### some urls
