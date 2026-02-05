@@ -5,19 +5,18 @@
 - 🌱 tech stack: mostly python & js
 - 🔭 currently: r&d in [banking](https://www.mbank.pl/); previously: [legal-tech](https://legora.com), health-tech & crowd economy
 
-### projects
-
-- [regalo](https://github.com/thezapalsky/regalo)  
-- [kitsuragi](https://github.com/thezapalsky/ai-hero)
-- [synes](https://synes.zapalsky.com)
-
-### some urls
+### contact
 
 - [website](https://thezapalsky.github.io/)
 - [email](mailto:miko@zapalsky.com)
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
 - [twitter](https://twitter.com/yapalskz)
+
+### projects
+
+- [regalo](https://github.com/thezapalsky/regalo)  
+- [synes](https://synes.zapalsky.com)
 
 ### inspo
 
