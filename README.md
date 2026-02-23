@@ -7,7 +7,7 @@
 
 ### contact
 
-- [website](https://thezapalsky.github.io/)
+- [website](https://zapalsky.com)
 - [email](mailto:miko@zapalsky.com)
 - [github](https://github.com/thezapalsky)
 - [linkedin](https://www.linkedin.com/in/zapalski-mikolaj/)
