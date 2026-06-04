@@ -15,9 +15,9 @@
 
 ### projects
 
-- [regalo](https://github.com/thezapalsky/regalo)  
 - [synes](https://synes.zapalsky.com)
 - [powielacz](https://github.com/thezapalsky/powielacz)
+- [regalo](https://github.com/thezapalsky/regalo)
 
 ### inspo
 
