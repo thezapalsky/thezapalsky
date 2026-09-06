@@ -26,6 +26,8 @@
 - [Harrison Kinsley](https://x.com/sentdex)
 - [Refik Anadol](https://twitter.com/refikanadol)
 - [ksawerykomputery](https://www.instagram.com/ksawerykomputery/)
+- [Daniel Aagentah](https://x.com/aagentah)
+- [rootkid](https://rootkid.me)
 - [Naval Ravikant](https://twitter.com/naval)
 - [Sebastián Ramírez](https://twitter.com/tiangolo)
 
