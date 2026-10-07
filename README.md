@@ -18,6 +18,7 @@
 - [synes](https://synes.zapalsky.com)
 - [powielacz](https://github.com/thezapalsky/powielacz)
 - [regalo](https://github.com/thezapalsky/regalo)
+- [magics](https://magics.zapalsky.com)
 
 ### inspo
 
