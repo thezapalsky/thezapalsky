@@ -19,6 +19,7 @@
 - [powielacz](https://github.com/thezapalsky/powielacz)
 - [regalo](https://github.com/thezapalsky/regalo)
 - [magics](https://magics.zapalsky.com)
+- stealth: mira, rob, buls, mod
 
 ### inspo
 
